@@ -15,8 +15,6 @@ function Header({showSite}) {
     showSite(clickedLink);
   }
 
-
-
   return (
     <nav>
       <div onClick={handleClick} >Opopoppa
